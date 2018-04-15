@@ -1,3 +1,3 @@
 # BSidesOK2018
 
-Check back soon for slides.
+See SecuringAzure.pdf. Send questions/comments/suggestions to @sdanelson
